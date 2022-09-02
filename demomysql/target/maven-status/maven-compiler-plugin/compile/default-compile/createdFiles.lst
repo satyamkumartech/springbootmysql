@@ -1,0 +1,6 @@
+com\example\demomysql\serviceimpl\StudentServiceImpl.class
+com\example\demomysql\DemomysqlApplication.class
+com\example\demomysql\Student\Student.class
+com\example\demomysql\controller\StudentRestController.class
+com\example\demomysql\service\StudentService.class
+com\example\demomysql\repository\StudentRepository.class
