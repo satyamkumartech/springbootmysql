@@ -67,6 +67,10 @@ public class Student {
         this.gpa = gpa;
     }
 
+    public void bugfix(){
+        System.out.println("bug check");
+    }
+
     @Override
     public String toString() {
         return "Student{" +
