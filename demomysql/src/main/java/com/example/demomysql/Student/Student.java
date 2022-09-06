@@ -75,6 +75,10 @@ public class Student {
         System.out.println("bug check1");
     }
 
+    public void feature(){
+        System.out.println("bug check1");
+    }
+
     @Override
     public String toString() {
         return "Student{" +
