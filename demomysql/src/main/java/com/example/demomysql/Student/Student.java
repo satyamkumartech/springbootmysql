@@ -67,17 +67,6 @@ public class Student {
         this.gpa = gpa;
     }
 
-    public void bugfix(){
-        System.out.println("bug check");
-    }
-
-    public void bugfix1(){
-        System.out.println("bug check1");
-    }
-
-    public void feature(){
-        System.out.println("bug check1");
-    }
 
     @Override
     public String toString() {
